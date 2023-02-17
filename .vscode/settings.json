@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "if_ether.h": "c",
+        "time.h": "c",
+        "ip.h": "c",
+        "if_packet.h": "c",
+        "socket.h": "c",
+        "types.h": "c",
+        "ethernet.h": "c",
+        "ether.h": "c",
+        "if.h": "c",
+        "getopt.h": "c"
+    }
+}
